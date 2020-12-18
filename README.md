@@ -13,4 +13,4 @@ Todas as rotas que serão implmentadas na API estão disponíveis no arquivo rou
 # PARA VER FUNCIONANDO
 Para rodar o projeto tenha instalado o banco de dados em seu computador e o banco barber criado e naõ esqueça de configurar as credenciais de acesso no arquivo .env
 
-Utiliza o camando "php artisan serve"
+Utilize o camando "php artisan serve"
